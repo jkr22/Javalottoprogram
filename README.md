@@ -1,5 +1,6 @@
 # Javalottoprogram
 Java Lottery program created for final project
+**********************************************
 You are to write a lottery program to simulate the pick four lottery.  This is a game where the user will pick four numbers (between 1 and 40 inclusive) and the computer will generate four random numbers (between 1 and 40 inclusive).  Depending on how many numbers that are matched, a dollar prize will be awarded according to the following:
 •	Match 4 numbers	$500,000 prize
 •	Match 3 numbers 	$50,000 prize
